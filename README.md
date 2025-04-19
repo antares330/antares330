@@ -1,10 +1,10 @@
-- 👋  Hi, I’m @antares330 (Justin)
-- 👀  I’m interested in music, art, hiking and meditation. **Ohh, and the idea of recursive compression (infinite reversible compression)**
+- 👋  Hi, I’m Justin (@antares330)
+- 👀  I’m interested in books, music, art, hiking and meditation. **Ohh, and the idea of recursive compression (infinite reversible compression)**
 
-- 🌱  I’m currently learning a few specific tools to work on my projects 😊. Right now, that's Python, Pandas and Regex. Graph/Chart visuals and Julia are both tempting atm
+- 💼  I’m currently only working on projects for work.
+- 🧑‍💻  My favorite tools are JmesPath, JS and PHP.
 
-- 💞️  I’m looking to collaborate on entry level projects to get my feet wet and get comfortable with Git (as opposed to hoarding all my .py files locally 😂)
-- 📫  You can reach me at Justin@JustinFMiller.com
+- 📫  You can reach me at Justin.m@hey.com
 
 <!---
 antares330/antares330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
